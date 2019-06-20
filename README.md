@@ -7,3 +7,5 @@
  - Average total purchase per person: 35-39($4.76) vs. 20-24($4.32)
 
 3) Of the 183 items, 'Oakbreaker($4.23)' which was purchased 12 times is the most profitable one followed by Nirvana, Fiery Flass Crusader, Final Critic, and Singled Scalpel. 
+
+Hey we just edited this
